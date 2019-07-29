@@ -1,1 +1,4 @@
 xxyxxxyas 
+
+/*Add customer condition*/
+selec xyz from A
